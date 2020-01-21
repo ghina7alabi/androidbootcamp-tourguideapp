@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Damascus TourGuide</string>
+
+    <string name="category_hotels">Hotels</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="category_religious">Religious Sites</string>
+
+    <string name="category_historical">Historical Sites</string>
+    <string name="five_star">5-star hotel</string>
+    <string name="four_star">4-star hotel</string>
+    <string name="three_star">3-star hotel</string>
+
+    <string name="OUTER_WALL_OF_JUPITERTEMPLE">Outer Wall of Jupiters Temple</string>
+    <string name="ROMAN_REMAINS">Roman Remains</string>
+    <string name="KHAN_SULEIMAN_PASHA">Khan Suleiman Pasha</string>
+    <string name="OLD_CITY_LANDMARK_KHANS">Old City Landmark, Khans</string>
+    <string name="BEIT_NIZAM">Beit Nizam</string>
+    <string name="OLD_DAMASCENE_HOME">Old Damascene Home</string>
+    <string name="BEIT_LYZBONAH">Beit Lyzbonah</string>
+    <string name="BEIT_AL_SIBA_E">Beit Al-Sibae</string>
+    <string name="BAB_AL_SALAM">Bab Al-Salam</string>
+    <string name="AL_BIMARISTAN_AL_NOURI">Al-Bimaristan Al-Nouri</string>
+    <string name="MUSEUM">Museum</string>
+    <string name="STRAIGHT_STREET_SOUQ_MIDHAT_PASHA">Straight Street (Souq Midhat Pasha)</string>
+    <string name="MARKET">Market</string>
+    <string name="SOUQ_AL_HAMIDIYA">Souq Al-Hamidiya</string>
+    <string name="MAKTAB_ANBAR">Maktab Anbar</string>
+    <string name="OLD_CITY_LANDMARK_MANSION">Old City Landmark (Mansion)</string>
+    <string name="KHAN_ASAAD_PASHA_AL_AZEM">Khan Asaad Pasha Al-Azem</string>
+    <string name="BAB_AL_SAGHIR">Bab Al-Saghir</string>
+    <string name="DAMASCUS_CITADEL">Damascus Citadel</string>
+    <string name="OLD_CITY_LANDMARK">Old City Landmark</string>
+    <string name="BAB_SHARQI">Bab Sharqi</string>
+    <string name="AL_AZEM_PALACE">Al-Azem Palace</string>
+
+    <string name="ORIENT_PALACE_HOTEL">Orient Palace Hotel</string>
+    <string name="QUEEN_CENTRE">Queen Centre</string>
+    <string name="AL_SHAHBANDAR_PALACE_HOTEL">Al Shahbandar Palace Hotel</string>
+    <string name="FARDOSS_TOWER_HOTEL">Fardoss Tower Hotel</string>
+    <string name="FOUR_SEASONS_HOTEL_DAMASCUS">Four Seasons Hotel Damascus</string>
+    <string name="BEIT_AL_MAMLOUKA">Beit Al Mamlouka</string>
+    <string name="TALISMAN_BAB_AL_SALAM">Talisman Bab Al Salam</string>
+    <string name="OMAYAD_HOTEL">Omayad Hotel</string>
+    <string name="HOTEL_ART_HOUSE">Hotel Art House</string>
+    <string name="BAIK_BASH">Baik Bash</string>
+    <string name="BEIT_AL_WALI">Beit Al Wali</string>
+    <string name="SHERATON_HOTEL">Sheraton Hotel</string>
+
+    <string name="SYRIAC_CATHOLIC_ARCHDIOCESSE">Syriac Catholic Archdiocesse</string>
+    <string name="CHURCH">Church</string>
+    <string name="AL_YAGHOSHIYA">Al-Yaghoshiya</string>
+    <string name="MOSQUE">Mosque</string>
+    <string name="AL_FARANJ_IFRANJ">Al-Faranj (Ifranj)</string>
+    <string name="SYNAGOGUE">Synagogue</string>
+    <string name="AL_MADRASA_AL_JOQMOQIYA">Al-Madrasa Al-Joqmoqiya</string>
+    <string name="ISLAMIC_SCHOOL_SHRINE">Islamic School, Shrine</string>
+    <string name="THE_MARIAMIYA_CATHEDRAL">The Mariamiya Cathedral</string>
+    <string name="THE_MAIN_GATE_OF_JUPITER_TEMPLE">The Main Gate of Jupiter Temple</string>
+    <string name="AL_MADRASA_AL_ZAHIRIYA">Al-Madrasa Al-Zahiriya</string>
+    <string name="THE_UMAYYAD_MOSQUE">The Umayyad Mosque</string>
+    <string name="SAYEDAT_AL_NEYYAH_CATHEDRAL">Sayedat Al-Neyyah Cathedral</string>
+    <string name="CATHEDRAL">Cathedral</string>
+    <string name="SAINT_ANANIAS_CHAPEL">Saint Ananias Chapel</string>
+    <string name="SHRINE">Shrine</string>
+    <string name="BAB_KISSAN_AND_SAINT_PAUL_CHAPEL">Bab Kissan and Saint Paul Chapel</string>
+    <string name="ANCIENT_GATE_CHURCH">Ancient Gate, Church</string>
+    <string name="AL_SAYDA_RUQAIYA_SHRINE">Al-Sayda Ruqaiya Shrine</string>
+
+    <string name="HANABI_SUSHI_BAR">Hanabi Sushi Bar</string>
+    <string name="STARS_GOOGLE">4.8/5 stars (Google)</string>
+    <string name="LE_BARON_RESTAURANT">Le Baron Restaurant</string>
+    <string name="STARS_GOOGLE1">3.7/5 stars (Google)</string>
+    <string name="RESTAURANT_CHAMPS_ÉLYSÉES">Restaurant Champs Élysées</string>
+    <string name="STARS_GOOGLE2">4.3/5 stars (Google)</string>
+    <string name="ROADHOUSE">Roadhouse</string>
+    <string name="STARS_GOOGLE3">4.7/5 stars (Google)</string>
+    <string name="STARS_GOOGLE4">4.1/5 stars (Google)</string>
+    <string name="ELISSAR">Elissar</string>
+    <string name="RUSTY_03">Rusty03</string>
+    <string name="BEIT_SITTI">Beit Sitti</string>
+    <string name="NARANJ">Naranj</string>
+    <string name="HARETNA">Haretna</string>
+
+
+</resources>

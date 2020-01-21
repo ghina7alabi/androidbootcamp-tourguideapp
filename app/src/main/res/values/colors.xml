@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#880E4F</color>
+    <color name="colorPrimaryDark">#6e0c41</color>
+
+
+    <color name="background">#fce4ec</color>
+
+
+    <color name="category_hotels">#84c4ff</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_restaurants">#a2fcea</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_historical">#7fffbb</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_religious">#ffe1ff</color>
+
+</resources>
